@@ -1,5 +1,5 @@
 {
-  "name": "angular-correlator-sharp",
+  "name": "angular-correlator-js",
   "version": "0.0.3-beta",
   "description": "A simple angular web layer for the correlator sharp package.",
   "scripts": {
