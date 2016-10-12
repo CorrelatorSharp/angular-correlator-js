@@ -206,7 +206,7 @@ var __makeRelativeRequire = function(require, mappings, pref) {
     /*****************************************************/
 
     .service('csStatic', function () {
-        return ng.extend({}, cs.statics);
+        return ng.extend({}, cs.Statics);
     })
 
     /* Angular wrapper around the UUID module.

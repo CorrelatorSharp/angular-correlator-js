@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jasond-s/angular-correlator-sharp.git"
+    "url": "git://github.com/CorrelatorSharp/angular-correlator-js.git"
   },
   "license": "MIT",
   "dependencies": {
