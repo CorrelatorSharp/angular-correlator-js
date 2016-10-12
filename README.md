@@ -1,16 +1,16 @@
 
 [![Build Status](https://travis-ci.org/CorrelatorSharp/angular-correlator-js.svg?branch=master)](https://travis-ci.org/CorrelatorSharp/angular-correlator-js)
 
-# angular-correlator-sharp
+# angular-correlator-js
 
 A simple angular module providing support for the [correlator sharp package](https://github.com/ivanz/CorrelatorSharp).
 
 
 ## Installation
 
-Cureently the alpha is not published on NPM, will update when beta goes live on NPM.
+This package is in beta and while it has been stable for awhile, caution should be taken when integrating it into production projetcs.
 
-`npm install angular-correlator-sharp --save`
+`npm install angular-correlator-js --save`
 
 
 ## Usage
