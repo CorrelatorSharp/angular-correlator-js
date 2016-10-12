@@ -1,6 +1,6 @@
 {
   "name": "angular-correlator-js",
-  "version": "0.0.4-beta",
+  "version": "0.0.5-beta",
   "description": "A simple angular web layer for the correlator sharp package.",
   "scripts": {
     "test": "karma start karma.conf.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jasond-s/angular-correlator-sharp.git"
+    "url": "git://github.com/CorrelatorSharp/angular-correlator-js.git"
   },
   "license": "MIT",
   "dependencies": {
